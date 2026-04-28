@@ -1,32 +1,43 @@
 # Hi there 👋, I'm Trisha Chakraborty  
 
-🎓 CSD Student @ SVIET  
-🎨 UI/UX Designer | 💻 Frontend Developer  
-✨ Passionate about blending creativity with code  
+CSD Student @ SVIET  
+UI/UX Designer | Full Stack Developer  
+Passionate about blending creativity with code  
 
 ---
 
-## 🌸 About Me  
-- 🎯 I love crafting engaging and user-friendly digital experiences  
-- 🎨 Skilled in designing with **Figma, Photoshop, Illustrator**  
-- 💻 Currently working with **HTML, CSS & REST APIs**  
-- 🚀 Always exploring new technologies & improving my skills  
+## About Me  
+- I love crafting engaging and user-friendly digital experiences  
+- Strong in **UI/UX Design (Figma, Photoshop, Illustrator)**  
+- Building **full-stack applications with modern technologies**  
+- Always exploring new tools & improving my development skills  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
-### 🎨 Design Tools  
+### Design  
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
 
-### 💻 Frontend Development  
+### Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-### 🔗 API & Tools  
+### Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
+</p>
+
+### Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### API & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=git,vscode" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
@@ -34,7 +45,7 @@
 
 ---
 
-## 🌐 Let's Connect  
+## Let's Connect  
 
 <p>
   <a href="https://www.linkedin.com/">
@@ -50,10 +61,10 @@
 
 ---
 
-## 💡 Motto  
-✨ *Design with creativity, build with logic.*  
+## Motto  
+*Design with creativity, build with logic.*  
 
 ---
 
-## 🚀 Let's Collaborate!  
-💬 Open to **UI/UX projects, frontend development, and creative collaborations**  
+## Let's Collaborate!  
+💬 Open to **UI/UX, frontend & full-stack projects**  
